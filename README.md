@@ -16,9 +16,3 @@ This is a simple gravity simulator implemented using HTML5 Canvas and JavaScript
 ## Files
 - `index.html`: The main HTML file containing the canvas for the simulation.
 - `main.js`: The JavaScript file that handles the simulation logic.
-
-## License
-This project is open source and available under the MIT License.
-
-## Acknowledgements
-- This project was built for educational purposes and demonstrates basic gravitational mechanics.
